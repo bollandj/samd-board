@@ -18,7 +18,7 @@ L MCU_Microchip_SAMD:ATSAMD21E17D-A U1
 U 1 1 60DF4799
 P 7150 6150
 F 0 "U1" H 7650 8000 50  0000 L CNN
-F 1 "ATSAMD21E17D-A" H 7250 4300 50  0000 L CNN
+F 1 "ATSAMD21E17D-A" H 7300 4300 50  0000 L CNN
 F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 8050 4300 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf" H 7150 6150 50  0001 C CNN
 	1    7150 6150
@@ -161,17 +161,6 @@ F 2 "Assorted:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm" H 5350 6200 50  0001 C CN
 F 3 "~" H 5350 6200 50  0001 C CNN
 	1    5350 6200
 	-1   0    0    1   
-$EndComp
-$Comp
-L Mechanical:Housing N1
-U 1 1 60E2C29B
-P 14800 1450
-F 0 "N1" H 14953 1484 50  0000 L CNN
-F 1 "Housing" H 14953 1393 50  0000 L CNN
-F 2 "Assorted:Template_Breadboard" H 14850 1500 50  0001 C CNN
-F 3 "~" H 14850 1500 50  0001 C CNN
-	1    14800 1450
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	6450 7050 6350 7050
