@@ -1,4 +1,4 @@
-18302685006307755
+18323943693783025
 Assorted
 BarrelJack_Wuerth_6941xx301002
 Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
@@ -28,6 +28,20 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 14
 14
 Assorted
+DMP-8_5.0x5.0mm_P1.27mm
+https://www.njr.com/electronic_device/PDF/package/DMP8_E.pdf
+DMP 1.27
+0
+8
+8
+Assorted
+DMP-16_5.0x10.0mm_P1.27mm
+https://www.njr.com/electronic_device/PDF/package/DMP16_E.pdf
+DMP 1.27
+0
+16
+16
+Assorted
 Enclosure_Hammond_1590A
 
 
@@ -49,6 +63,13 @@ Enclosure_Hammond_1590BB
 0
 0
 Assorted
+Jack_3.5mm_PJ320D_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Assorted
 Jack_3.5mm_PJ320_Horizontal
 
 3.5mm audio horizontal jack stereo
@@ -56,14 +77,21 @@ Jack_3.5mm_PJ320_Horizontal
 3
 3
 Assorted
-Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
+Jack_3.5mm_WQP-WQP518MA
+
+
+0
+3
+3
+Assorted
+Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
 M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
 neutrik jack m
 0
-4
-4
+6
+6
 Assorted
-Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+Jack_6.35mm_Tayda_A-1122_Horizontal
 M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
 neutrik jack m
 0
@@ -77,19 +105,26 @@ LED handsolder
 2
 2
 Assorted
+Pad_1x01_P2.00mm
+Through hole straight pin header, 1x01, 2.00mm pitch, single row
+Through hole pin header THT 1x01 2.00mm single row
+0
+1
+1
+Assorted
+Pad_1x01_P2.54mm
+Through hole straight pin header, 1x01, 2.00mm pitch, single row
+Through hole pin header THT 1x01 2.00mm single row
+0
+1
+1
+Assorted
 Potentiometer_Alpha_RD901F-40
 Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
 potentiometer vertical 9mm single
 0
 5
 3
-Assorted
-Potentiometer_Alpha_RD902F-40
-Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm dual
-0
-8
-6
 Assorted
 Potentiometer_Alpha_RV16AF-41
 Potentiometer, vertical, 16mm, single
@@ -118,6 +153,34 @@ Push Button
 0
 4
 4
+Assorted
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Assorted
+SW_2PDT_Alpha_SF12020F-0202-20R-M-011
+
+
+0
+6
+6
+Assorted
+SW_3PDT_Alpha_SF17010F-0302-21R-L
+
+
+0
+9
+9
+Assorted
+SW_3PDT_Alpha_SF17020F-0302-21R-L
+
+
+0
+9
+9
 Assorted
 Template_Breadboard
 
@@ -7895,6 +7958,55 @@ THT Mini XLR 5Pin right angle
 0
 5
 5
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical
+
+
+0
+4
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ301CM_Vertical
+
+
+0
+3
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ301M-12_Vertical
+
+
+0
+3
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal
+
+
+0
+3
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical
+T-R-S Vertical mounting jack AKA WQP-WQP419GR, Stereo Thonkiconn
+WQP-WQP419GR Thonkiconn
+0
+3
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+T-S-SN Vertical mount jack AKA WQP-WQP518MA or Thonkiconn
+WQP-WQP518MA, Thonkiconn
+0
+3
+3
+Connector_Audio_Clacktronics
+Jack_3.5mm_QingPu_WQP-PJ3410_Vertical
+
+
+0
+4
+4
 Connector_BarrelJack
 BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
@@ -51631,6 +51743,48 @@ solder jumper open
 0
 5
 3
+Knob
+Knob_15
+
+
+0
+0
+0
+Knob
+Knob_21
+
+
+0
+0
+0
+Knob
+Knob_Boss_20
+
+
+0
+0
+0
+Knob
+Knob_Boss_23
+
+
+0
+0
+0
+Knob
+Knob_MXR_20
+
+
+0
+0
+0
+Knob
+Knob_MXR_24
+
+
+0
+0
+0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -72834,6 +72988,13 @@ rotary encoder
 0
 5
 4
+SOICbite
+SOIC_clipProgSmall
+
+
+0
+8
+8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -79568,73 +79729,3 @@ varistor SIOV
 0
 2
 2
-Winterbloom
-Dotstar_5050
-http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
-RGB LED 5050-6
-0
-6
-6
-Winterbloom
-Eurorack_Power
-PLATED THROUGH HOLE - 2X5 SHROUDED HEADER LOCKING FOOTPRINT
-PLATED THROUGH HOLE - 2X5 SHROUDED HEADER LOCKING FOOTPRINT
-0
-10
-10
-Winterbloom
-R0904N
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-Winterbloom
-TQFP-48_7x7mm_P0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Winterbloom
-Tactile_Switch_4.2mm
-DESCRIPTION: STANDARD 4.2MM TACT SWITCH PACKAGE.BASED OFF C&K PTS 810 SERIES TACT SWITCH.
-DESCRIPTION: STANDARD 4.2MM TACT SWITCH PACKAGE.BASED OFF C&K PTS 810 SERIES TACT SWITCH.
-0
-4
-2
-Winterbloom
-Tactile_Switch_6mm
-https://www.omron.com/ecb/products/pdf/en-b3f.pdf
-tact sw push 6mm
-0
-4
-2
-Winterbloom
-Tag_Connect_TC2030NL
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
-tag connect programming header pogo pins
-0
-6
-6
-Winterbloom
-USB_B_Micro_Receptacle
-DESCRIPTION: PACKAGE FOR MICRO USB TYPE B CONNECTOR. BASED ON FCI 10118193-0001LF.
-DESCRIPTION: PACKAGE FOR MICRO USB TYPE B CONNECTOR. BASED ON FCI 10118193-0001LF.
-0
-11
-11
-Winterbloom
-USB_B_Receptacle
-http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf
-USB_B USB B vertical female connector
-0
-6
-5
-Winterbloom
-WQP-WQP518MA
-
-
-0
-3
-3
